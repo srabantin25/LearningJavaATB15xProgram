@@ -12,7 +12,7 @@ public class Lab038_Uniary_operators {
 
         int b = -1;
         b = b+1;
-        System.out.println(b);
+        System.out.println(b); //0
 
 
     }

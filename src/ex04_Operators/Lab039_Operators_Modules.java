@@ -11,5 +11,7 @@ public class Lab039_Operators_Modules {
         System.out.println(c);
         System.out.println(d);
         System.out.println(10%3);//remainder is 1
+
+
     }
 }

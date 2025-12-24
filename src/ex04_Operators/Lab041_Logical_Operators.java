@@ -8,13 +8,13 @@ public class Lab041_Logical_Operators {
 
 
         boolean b = true;
-        System.out.println(!!b);
+        System.out.println(!!b); //false
 
         boolean c = true || false;
-        System.out.println(c);
+        System.out.println(c); //true
 
         boolean c1 = true && false;
-        System.out.println(c1);
+        System.out.println(c1); //false
 
 
     }
