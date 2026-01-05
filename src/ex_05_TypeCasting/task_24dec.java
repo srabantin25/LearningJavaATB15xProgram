@@ -10,5 +10,7 @@ public class task_24dec {
 
         System.out.println( result);
 
+
+
     }
 }
